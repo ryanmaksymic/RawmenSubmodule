@@ -16,7 +16,17 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: 243d9bf8d793145d8b6552eef5e52336
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: fcc5027c11c9547eba60da5a976b7b69
+    m_Address: luigi
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - players
+  - m_GUID: 070b7458dd09b401aa64cafc17b2289b
+    m_Address: mario
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - players
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 460a96ec8cf8e4026be494fdae6dc6c4, type: 2}
   m_SchemaSet:
